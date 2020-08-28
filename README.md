@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thanks for checking out my profile! My name is Shashank Vemuri and I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info below.
+
+☎️ : +1 848-252-1431
+
+✉️ : shashank.vemuri1@gmail.com
+
 <!--
 **shashankvemuri/shashankvemuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
