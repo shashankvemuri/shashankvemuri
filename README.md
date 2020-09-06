@@ -21,6 +21,7 @@ Thanks for checking out my profile! I'm an aspiring Software Engineer who loves 
 </p>
 
 <br>
+<br>
 
 <div><p>My GitHub Profile Overview:</p></div>
 
@@ -30,7 +31,6 @@ Thanks for checking out my profile! I'm an aspiring Software Engineer who loves 
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages"> -->
 </p>
 
-<br />
 <br />
 <br />
 <details>
