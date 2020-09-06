@@ -16,8 +16,6 @@
 
 <p align="center">
 Thanks for checking out my profile! I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
-  <br>
-  <b><i>"I want to make the world a better place before I die."</i></b>
 </p>
 
 <br>
