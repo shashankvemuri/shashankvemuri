@@ -3,21 +3,19 @@
  <h2 align="center">My GitHub Profile</h2>
 </p>
 
-<p align="center">
-  ### Hi there 👋 I am [Shashank Vemuri](https://shashankvemuri.github.io)
+ ### Hi there 👋 I am [Shashank Vemuri](https://shashankvemuri.github.io)
 
-  <a href="https://www.linkedin.com/in/shashank-vemuri//">
-    <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="mailto:shashank.vemuri1@gmail.com">
-    <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
-  </a>
-  <a href="https://medium.com/@shashank.vemuri1">
-    <img align="left" alt="My Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-  </a>
-  <br />
-  <br />
-</p>
+ <a href="https://www.linkedin.com/in/shashank-vemuri//">
+   <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+ <a href="mailto:shashank.vemuri1@gmail.com">
+   <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
+ </a>
+ <a href="https://medium.com/@shashank.vemuri1">
+   <img align="left" alt="My Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+ </a>
+ <br />
+ <br />
 
 <div>
  <p>
