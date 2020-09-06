@@ -1,9 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github ReadME Stats" />
- <h2 align="center" style="color: black">
-   <a href="https://shashankvemuri.github.io">
+ <h2 align="center">
    Hi there 👋 I am Shashank Vemuri
-   </a>
  </h2>
  <div style="text-align: center">
    <a href="https://www.linkedin.com/in/shashank-vemuri/">
