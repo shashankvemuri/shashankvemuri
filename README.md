@@ -4,13 +4,13 @@
    Hi there 👋 I am Shashank Vemuri
  </h2>
  <div style="text-align: center">
-   <a href="https://www.linkedin.com/in/shashank-vemuri/">
+   <a href="https://www.linkedin.com/in/shashank-vemuri/" target="_blank">
     <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:shashank.vemuri1@gmail.com">
     <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
   </a>
-  <a href="https://medium.com/@shashank.vemuri1">
+  <a href="https://medium.com/@shashank.vemuri1" target="_blank">
     <img align="left" alt="My Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
   </a>
   <br />
