@@ -1,11 +1,11 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github ReadME Stats" />
- <h2 align="center">My GitHub Profile</h2>
-</p>
-
- ### Hi there 👋 I am [Shashank Vemuri](https://shashankvemuri.github.io)
-
- <a href="https://www.linkedin.com/in/shashank-vemuri//">
+ <h2 align="center">
+   <a href="https://shashankvemuri.github.io">
+   Hi there 👋 I am Shashank Vemuri
+   </a>
+ </h2>
+  <a href="https://www.linkedin.com/in/shashank-vemuri/">
    <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
  <a href="mailto:shashank.vemuri1@gmail.com">
@@ -16,6 +16,7 @@
  </a>
  <br />
  <br />
+</p>
 
 <div>
  <p>
