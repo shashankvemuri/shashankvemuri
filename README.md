@@ -1,22 +1,50 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github ReadME Stats" />
+ <h2 align="center">My GitHub Profile</h2>
+</p>
 
-Thanks for checking out my profile! My name is Shashank Vemuri and I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info below.
+<p align="center">
+  ### Hi there 👋 I am [Shashank Vemuri](https://shashankvemuri.github.io)
 
-☎️ : +1 848-252-1431
+  <a href="https://www.linkedin.com/in/shashank-vemuri//">
+    <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:shashank.vemuri1@gmail.com">
+    <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
+  </a>
+  <a href="https://medium.com/@shashank.vemuri1">
+    <img align="left" alt="My Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  </a>
+  <br />
+  <br />
+</p>
 
-✉️ : shashank.vemuri1@gmail.com
+<div>
+ <p>
+Thanks for checking out my profile! My name is Shashank Vemuri and I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
+</h4>
+</div>
 
-<!--
-**shashankvemuri/shashankvemuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div><p>My GitHub Profile Overview:</p></div>
 
-Here are some ideas to get you started:
+![My Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankvemuri&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
+  Projects I'm Currently Working On!
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=Finance)](https://github.com/shashankvemuri/Finance)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=InvestmentsTracker)](https://github.com/shashankvemuri/InvestmentsTracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=shashankvemuri.github.io)](https://github.com/shashankvemuri/shashankvemuri.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=COVID19_Dashboard)](https://github.com/shashankvemuri/COVID19_Dashboard)
+
+<br />
+
+</details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shashankvemuri.shashankvemuri)
