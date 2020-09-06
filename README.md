@@ -2,6 +2,7 @@
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Intro" />
 </p>
 <h1 align="center">Hi there 👋 I am Shashank Vemuri
+  <br>
 <a href="https://www.linkedin.com/in/shashank-vemuri/">
   <img align="center" alt="Shashank @LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -23,9 +24,8 @@ Thanks for checking out my profile! I'm an aspiring Software Engineer who loves 
 
 <hr>
 <p align="center">
-<i><b>My GitHub Stats!</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=shashankvemuri&count_private=true&show_icons=true" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=shashankvemuri&count_private=true&show_icons=true" alt="GitHub Stats"/>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages"> -->
 </p>
 
 <br />
