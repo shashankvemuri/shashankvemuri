@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hi there 👋 I am Shashank Vemuri
   <br>
-<a href="https://www.linkedin.com/in/shashank-vemuri/">
+<a href="https://www.linkedin.com/in/shashank-vemuri/" target="_blank">
   <img align="center" alt="Shashank @LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  <a href="mailto:shashank.vemuri1@gmail.com">
+  <a href="mailto:shashank.vemuri1@gmail.com" target="_blank">
   <img align="center" alt="Shashank @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@shashank.vemuri1">
+<a href="https://medium.com/@shashank.vemuri1" target="_blank">
   <img align="center" alt="Shashank @Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 </h1>
