@@ -20,7 +20,7 @@
 
 <div>
  <p>
-Thanks for checking out my profile! My name is Shashank Vemuri and I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
+Thanks for checking out my profile! I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
 </h4>
 </div>
 
