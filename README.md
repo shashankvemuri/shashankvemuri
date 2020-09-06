@@ -14,9 +14,7 @@
 </h1>
 
 <p align="center">
-  <em>
 Thanks for checking out my profile! I'm an aspiring Software Engineer who loves to create and build disruptive solutions to the world's problems. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
-  </em> 
   <br>
   <b><i>"I want to make the world a better place before I die."</i></b>
 </p>
@@ -26,8 +24,8 @@ Thanks for checking out my profile! I'm an aspiring Software Engineer who loves 
 <hr>
 <p align="center">
 <i><b>My GitHub Stats!</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=shashankvemuri&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=shashankvemuri&count_private=true&show_icons=true" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages">
 </p>
 
 <br />
