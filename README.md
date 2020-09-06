@@ -20,6 +20,8 @@ Thanks for checking out my profile! I'm an aspiring Software Engineer who loves 
   <b><i>"I want to make the world a better place before I die."</i></b>
 </p>
 
+<br>
+
 <div><p>My GitHub Profile Overview:</p></div>
 
 <hr>
