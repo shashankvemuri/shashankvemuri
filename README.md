@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-Thanks for checking out my profile! I'm a software engineer using coding as a way of creating lasting positive impact on the world. If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
+Thanks for checking out my profile! If you have any questions, want to chat, or just want to get to know me better, don't hesitate to reach out to me using my contact info above.
 </p>
 
 <br>
