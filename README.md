@@ -39,9 +39,7 @@ Thanks for checking out my profile! If you have any questions, want to chat, or 
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=Finance)](https://github.com/shashankvemuri/Finance)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=InvestmentsTracker)](https://github.com/shashankvemuri/InvestmentsTracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=SMS-Stock-Data)](https://github.com/shashankvemuri/SMS-Stock-Data)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=COVID19_Dashboard)](https://github.com/shashankvemuri/COVID19_Dashboard)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankvemuri&repo=InvestmentsTracker)](https://github.com/shashankvemuri/InvestmentsTracker)(https://github.com/shashankvemuri/COVID19_Dashboard) -->
 
 <br />
 
