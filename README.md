@@ -20,14 +20,14 @@ Thanks for checking out my profile! If you have any questions, want to chat, or 
 
 <br>
 <br>
-
+<!-- 
 <div><p>My GitHub Profile Overview:</p></div>
 
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shashankvemuri&count_private=true&show_icons=true" alt="GitHub Stats"/>
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages"> -->
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shashankvemuri&show_icons=true&layout=compact" alt="Most Used Languages">
+</p> -->
 
 <br />
 <br />
